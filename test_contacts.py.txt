@@ -1,0 +1,21 @@
+Search Results for 'john':
+------------------------------------------
+1. John Doe
+   Phone: +1234567890
+   Email: john@example.com
+   Address: 123 Main St
+   Group: Friends
+
+2. Johnny Appleseed
+   Phone: +5551234567
+   Email: johnny@apple.com
+   Address: 789 Orchard Rd
+   Group: Family
+------------------------------------------
+Found 2 contacts matching 'john'
+
+Statistics:
+- Total Contacts: 15
+- Friends: 5 contacts
+- Work: 7 contacts
+- Family: 3 contacts
